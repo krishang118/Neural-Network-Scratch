@@ -2,7 +2,7 @@
 
 A from-scratch implementation of a neural network using only NumPy, to classify handwritten digits from the MNIST dataset.
 
-Special thanks to [Samson Zhang on YouTube](https://www.youtube.com/@SamsonZhangTheSalmon/videos), for providing the basis for this implementation.
+Special thanks to Samson Zhang on YouTube, for providing the basis for this implementation.
 
 ## Features
 
